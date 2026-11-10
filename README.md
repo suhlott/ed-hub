@@ -1,2 +1,0 @@
-# ed-hub
-Blessing Hospital
